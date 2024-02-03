@@ -3,4 +3,10 @@ The DEI-Analysis-Tool is a project dedicated to exploring and evaluating Diversi
 ## Open-Source Datasets
 This project draws strength from a diverse set of open-source datasets, each contributing unique perspectives to enhance the tool's analytical capabilities. 
 - Kaggle Dataset [Diversity, Equity and Inclusion Measures Dataset] (https://www.kaggle.com/datasets/keremkurt/diversity-equity-and-inclusion-measures-dataset)
+
+## KEY FEATURES
+- Text-Based Analysis: The project initially focuses on the nuanced analysis of text content to identify and understand DEI-related patterns.
+- Model Diversity: Leveraging both an NLP model and FairLens, the tool goes beyond conventional analysis, offering a deeper understanding of language patterns, sentiment, and representation.
+- User-Friendly Interface: Designed with simplicity in mind, the tool provides a user-friendly interface for users to input text and easily interpret analysis results.
   
+
