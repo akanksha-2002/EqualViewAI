@@ -1,12 +1,7 @@
-# EqualView Insights: Promoting DEI in Media
-
-
-
-
 ![EqualView Cover1 (1)](https://github.com/akanksha-2002/EqualViewAI/assets/94109994/a271d8b9-f8eb-4456-ad37-3b8f468a6446)
 
 
-
+# EqualView Insights: Promoting DEI in Media
 
 
 EqualView Insights is a DEI-Analysis-Tool dedicated to exploring and evaluating Diversity, Equity, and Inclusion (DEI) aspects within corporate textual content. Using advanced Natural Language Processing (NLP) techniques and integrating FairLens, the tool aims to provide insights into the inclusivity, representation, and overall fairness of various forms of written communication, including blog posts, training materials, emails, and marketing content.
