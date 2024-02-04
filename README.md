@@ -14,4 +14,9 @@ This project draws strength from a diverse set of open-source datasets, each con
 - Model Diversity: Leveraging both an NLP model and FairLens, the tool goes beyond conventional analysis, offering a deeper understanding of language patterns, sentiment, and representation.
 - User-Friendly Interface: Designed with simplicity in mind, the tool provides a user-friendly interface for users to input text and easily interpret analysis results.
   
+## FAIRLENS ANALYSIS WRT DEMOGRAPHIC VARIABLES
+- Dataset used: [ProPublica COMPAS Dataset](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
+<img width="954" alt="Screenshot 2024-02-04 at 9 15 04 PM" src="https://github.com/akanksha-2002/EqualViewAI/assets/94109994/4a7f4617-9e69-4fc0-a8cd-dc1d3402a284">
 
+- Dataset used: [Kaggle DEI Dataset](https://www.kaggle.com/datasets/keremkurt/diversity-equity-and-inclusion-measures-dataset)
+<img width="954" alt="Screenshot 2024-02-04 at 9 18 50 PM" src="https://github.com/akanksha-2002/EqualViewAI/assets/94109994/0f02b249-019f-438e-8745-2d2c9acab267">
